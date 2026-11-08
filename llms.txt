@@ -1,0 +1,15 @@
+# Computer Systems: A Programmer's Perspective (CSAPP)
+
+> Chinese-edition CSAPP study archive: a chapter/section index plus three page-ordered scans (TOC, Ch.2, Ch.8) with personal handwritten annotations.
+
+## Scans
+- 扫描件/01-目录（扫描）.pdf: full book table of contents, 7 pages
+- 扫描件/02-第2章 信息的表示和处理（扫描）.pdf: Ch.2 Representation and Manipulation of Information, 2.1-2.2, p.25-48
+- 扫描件/03-第8章 异常控制流（扫描）.pdf: Ch.8 Exceptional Control Flow, 8.1-8.5, p.502-537
+
+## Index
+- CSAPP-章节结构索引.md: chapter -> section outline exported from the study notes tree
+
+## 备注
+- Scans were deduplicated (perceptual hash), OCR-adjusted and re-ordered by printed page number.
+- Textbook (c) Bryant / O'Hallaron, China Machine Press. Other chapters' notes are kept outside this repo.
